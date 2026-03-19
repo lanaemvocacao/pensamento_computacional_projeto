@@ -9,12 +9,8 @@ preço_frutas = {
     'laranja': 3.0
 }
 
-fruta_desejada = 'maça'
+fruta_desejada = 'laranja'
 
 resultado = preço_frutas.get(fruta_desejada, 'fruta não encontrada')
 
-print (f"O preço da {fruta_desejada} é R$ {resultado}")
-
-
-
- 
+print (f"O preço da {fruta_desejada} é R$ {resultado}") 

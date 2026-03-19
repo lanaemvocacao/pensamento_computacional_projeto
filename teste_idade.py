@@ -12,8 +12,5 @@ if idade < 18:
 elif idade <= 65:
     print('Jovem é adulto de idade')
 
-
-
-
 else:
     print('Jovem é idoso de idade')
